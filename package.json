@@ -20,7 +20,7 @@
     "fastify-type-provider-zod": "^1.1.9",
     "zod": "^3.22.4"
   },
-  "devDependencies": {
+  "Dependencies": {
     "@types/node": "^20.11.24",
     "prisma": "^5.10.2",
     "tsx": "^4.7.1",
